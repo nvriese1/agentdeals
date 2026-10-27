@@ -38386,6 +38386,24 @@
           "read_on": "2026-10-11"
         }
       ]
+    },
+    {
+      "vendor": "Pictograph",
+      "category": "AI / ML",
+      "description": "Computer vision platform for labeling, training and deploying models, with a CLI and Python SDK built for coding agents. The Free plan needs no card and includes $5 of compute a month, 5,000 images, 2 GB of storage, 1 team member and 2,000 API requests an hour; compute past the $5 is pay-as-you-go. It covers SAM3 auto-annotation, training RF-DETR and YOLOX models, GPU deployments that also take live RTSP and WebRTC video, and workflows; manual annotation is free.",
+      "tier": "Free",
+      "url": "https://pictograph.io/pricing",
+      "tags": [
+        "computer-vision",
+        "object-detection",
+        "image-annotation",
+        "sam3",
+        "model-training",
+        "inference",
+        "real-time",
+        "agents"
+      ],
+      "verifiedDate": "2026-10-27"
     }
   ],
   "changes": []
